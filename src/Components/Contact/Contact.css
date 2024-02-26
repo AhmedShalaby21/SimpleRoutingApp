@@ -1,0 +1,15 @@
+ .section h1{
+    padding-top: 100px;
+    color: #2C3E50;
+}
+.section{
+    width: 100%;
+    height: 100vh;
+}
+.section .form{
+   border: 0;
+   padding: 50px;
+}
+.icon .code{
+    color: #2C3E50;    
+}

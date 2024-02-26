@@ -1,0 +1,26 @@
+.loc{
+    width: 100%;
+    background-color: #2C3E50;
+    justify-content: space-between  ;
+    margin: auto ;
+    padding:90px 50px 80px 200px;
+    text-align: center;
+    
+
+    
+    
+   
+   
+    
+    
+}
+.icons{
+    color: white;
+}
+.end{
+    background-color: #1A252F;
+    color: white;
+    height: 10vh;
+    text-align: center;
+    padding-top: 20px;
+}
